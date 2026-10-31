@@ -72,7 +72,7 @@ I have a special interest in the intersection of **software, radio communication
 | **MAYA RF Analyzer** | Android SDR application with spectrum/waterfall analysis, radio demodulation and IQ workflows | Kotlin, Compose, C++, HackRF, DSP |
 | **AITAS** | Field-to-command-center coordination system with image processing and secure communications | Android, Python, OpenCV, Tailscale, Firebase |
 | **Sky Guardian** | RF/drone-signal detection research and analyzer workflows | SDR, FFT, CFAR, Android |
-| **AgniBaaz Scan / Shield** | Android application analysis and security-oriented tooling | Android, Firebase, security |
+| **Drone Detection System/ Shield** | Android application analysis and security-oriented tooling | Android, Firebase, security |
 | **FleetPune** | Fleet and transport management application | Flutter, Firebase, cloud |
 | **Zenopath LMS** | Offline pathology lab management and reporting system | Flask, SQLite/PostgreSQL, desktop packaging |
 | **Om Sai PG CMS** | Property/PG management workflows | Android, Compose, Firebase |
