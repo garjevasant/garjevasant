@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Vasant Garje
 
-### 🇮🇳 Indian Army Veteran (Corps of Signals) • Multidisciplinary Software & RF Developer
+### 🇮🇳 Indian Army• Multidisciplinary Software & RF Developer
 
 **Full Stack • Android & Flutter • Python • AI/ML • SDR/RF • Cybersecurity • Networking • Cloud**
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Vasant Garje**, an Indian Army veteran from the **Corps of Signals** and a hands-on, multidisciplinary developer based in **Pune, Maharashtra, India**. My background combines technical systems, communications, IT and finance with practical software engineering.
+I'm **Vasant Garje**, an Indian Army veteran from the a hands-on, multidisciplinary developer based in **Pune, Maharashtra, India**. My background combines technical systems, communications, IT and finance with practical software engineering.
 
 I enjoy building **complete, usable solutions**—from frontend interfaces and backend APIs to mobile apps, databases, computer vision, radio-frequency tools, and deployment workflows. I work across multiple languages, frameworks and platforms, selecting the right technology for each problem.
 
