@@ -1,8 +1,7 @@
-1. Open preview.html locally to see the animations.
-2. Create/open a PUBLIC GitHub repository named exactly your GitHub username.
-3. Upload README.md and the entire assets/ directory preserving filenames.
-4. Commit to the default branch and visit github.com/YOUR_USERNAME.
-5. Add your real GitHub, LinkedIn and portfolio URLs to README.md.
-6. If image changes are cached, increment ?v=2 to ?v=3.
-Note: No invented follower, star, contribution or repository metrics.
-Note: GitHub clients may disable SVG animation; static fallback remains legible.
+GitHub username: garjevasant
+1. Extract ZIP.
+2. Open https://github.com/garjevasant/garjevasant (create public repository garjevasant if absent).
+3. Upload README.md and entire assets folder (not ZIP).
+4. Commit changes to default branch.
+5. Visit https://github.com/garjevasant to verify.
+6. For updated SVGs, bump ?v=3 in README to ?v=4.
