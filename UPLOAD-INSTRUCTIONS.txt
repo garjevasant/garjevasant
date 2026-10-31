@@ -1,0 +1,8 @@
+GitHub username: garjevasant
+1. Extract this ZIP.
+2. Open https://github.com/garjevasant/garjevasant (create a PUBLIC repository named garjevasant if it does not exist).
+3. Upload README.md and the entire assets folder (not the ZIP itself).
+4. Commit the changes to the default branch.
+5. Visit https://github.com/garjevasant to verify.
+6. If you edit an SVG later, bump ?v=4 in README.md to ?v=5 so GitHub refreshes its image cache.
+(preview.html is only for previewing on your computer; you do not need to upload it.)
