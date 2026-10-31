@@ -1,7 +1,0 @@
-GitHub username: garjevasant
-1. Extract ZIP.
-2. Open https://github.com/garjevasant/garjevasant (create public repository garjevasant if absent).
-3. Upload README.md and entire assets folder (not ZIP).
-4. Commit changes to default branch.
-5. Visit https://github.com/garjevasant to verify.
-6. For updated SVGs, bump ?v=3 in README to ?v=4.
