@@ -1,1 +1,37 @@
-<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Vasant Garje — GitHub profile preview</title><style>body{background:#0d1117;color:#e6edf3;font:16px system-ui;max-width:1000px;margin:auto;padding:16px}img{display:block;width:100%;margin:20px 0}a{color:#79adff}</style><h1>Vasant Garje — Animated GitHub README</h1><img src="assets/hero.svg" alt="hero"><img src="assets/about-life.svg" alt="about-life"><img src="assets/stack.svg" alt="stack"><img src="assets/id-dashboard.svg" alt="id-dashboard"><img src="assets/connect.svg" alt="connect"><p>Open this file in a modern browser to preview the animations. Actual GitHub rendering may differ slightly.</p><p><a href="https://github.com/garjevasant">GitHub: @garjevasant</a></p></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>Vasant Garje — GitHub profile preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root { color-scheme: dark; --bg: #080d18; --panel: #101827; --text: #e7eefb; --muted: #9aabc2; --line: #24334a; --accent: #60a5fa; --cyan: #67e8f9; --amber: #fcd34d; }
+    * { box-sizing: border-box; } body { margin: 0; background: radial-gradient(circle at 50% -10%, #172b4e 0, var(--bg) 42rem); color: var(--text); font: 16px/1.65 "Space Grotesk", Inter, ui-sans-serif, system-ui, sans-serif; position: relative; overflow-x: hidden; }
+    body::before { content: ""; position: fixed; inset: 0; pointer-events: none; opacity: .2; background-image: linear-gradient(rgba(103,232,249,.08) 1px, transparent 1px), linear-gradient(90deg, rgba(103,232,249,.08) 1px, transparent 1px); background-size: 32px 32px; mask-image: linear-gradient(to bottom, #000, transparent 80%); }
+    body::after { content: ""; position: fixed; z-index: 4; left: 0; right: 0; height: 2px; pointer-events: none; background: linear-gradient(90deg, transparent, var(--cyan), transparent); box-shadow: 0 0 18px var(--cyan); animation: scan 8s linear infinite; }
+    main { width: min(100% - 32px, 1040px); margin: 0 auto; padding: 32px 0 72px; } .topbar { display: flex; justify-content: space-between; gap: 16px; align-items: center; margin-bottom: 24px; color: var(--muted); } .topbar a { color: var(--accent); text-decoration: none; }
+    .card { background: color-mix(in srgb, var(--panel) 88%, transparent); border: 1px solid var(--line); border-radius: 20px; padding: 20px; box-shadow: 0 18px 50px #0003; } .hero { padding: 0; overflow: hidden; } img { max-width: 100%; height: auto; } .hero img { display: block; width: 100%; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin-top: 16px; } h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0 0 8px; } h2 { margin-top: 0; font-size: 1.15rem; } p { color: var(--muted); } .wide { margin-top: 16px; } footer { text-align: center; margin-top: 28px; color: var(--muted); }
+    .hud { border-color: #22627a; box-shadow: 0 0 0 1px #67e8f91a, 0 18px 50px #0005; } .hud img { width: 100%; display: block; }
+    .statusbar { display: flex; flex-wrap: wrap; gap: 10px 20px; color: var(--muted); font: 11px "JetBrains Mono", monospace; letter-spacing: .08em; } .statusbar span::first-letter { color: var(--amber); } .pulse { color: var(--amber); animation: pulse 1.8s ease-in-out infinite; }
+    @keyframes scan { from { transform: translateY(-10vh); } to { transform: translateY(110vh); } } @keyframes pulse { 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { body::after, .pulse { animation: none; } }
+    @media (max-width: 700px) { main { width: min(100% - 20px, 1040px); padding-top: 16px; } .grid { grid-template-columns: 1fr; } .topbar { align-items: flex-start; flex-direction: column; } .statusbar { font-size: 10px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="topbar"><span>Local preview · GitHub profile README</span><a href="https://github.com/garjevasant">github.com/garjevasant ↗</a></div>
+    <section class="card hero"><img src="assets/hero.svg?v=5" alt="Vasant Garje — Build, secure, innovate" /></section>
+    <section class="card hud"><img src="assets/mission-control.svg?v=1" alt="Animated mission control telemetry panel" /></section>
+    <div class="statusbar wide"><span class="pulse">● SYSTEM ONLINE</span><span>◈ SIGNAL: STABLE</span><span>⌁ MODE: BUILD / SECURE / INNOVATE</span></div>
+    <section class="grid"><article class="card"><h1>Hi, I'm Vasant Garje 👋</h1><p>Indian Army veteran · Full-stack developer · Android & Flutter engineer · RF/SDR explorer.</p><p>This preview shows the local artwork and the layout used by the profile README.</p></article><article class="card"><h2>Focus areas</h2><p>📱 Product engineering<br />🧠 Intelligent systems<br />📡 RF & SDR<br />🛡️ Reliable delivery</p></article></section>
+    <section class="card wide"><h2>Visual assets</h2><img src="assets/about-life.svg?v=5" alt="About Vasant Garje" /><img src="assets/stack.svg?v=5" alt="Technology stack" /><img src="assets/id-dashboard.svg?v=5" alt="Developer identity dashboard" /><img src="assets/connect.svg?v=5" alt="Connect" /></section>
+    <footer>Open the README on GitHub to see the live stats and repository links.</footer>
+  </main>
+</body>
+</html>
