@@ -58,9 +58,7 @@ These are public repositories currently available on my profile. The showcase is
 ## GitHub activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=garjevasant&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garjevasant&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
-<br /><img src="https://streak-stats.demolab.com?user=garjevasant&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<a href="https://github.com/garjevasant"><img src="./assets/github-activity.svg?v=1" alt="GitHub activity snapshot - open to view live profile" width="100%" /></a>
 </div>
 
 ## Mission log
